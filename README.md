@@ -7,3 +7,5 @@
   далее в консоли/терминале пишем: python3 main.py
   нажимаем enter
 Ссылка на текстовый файл https://docs.google.com/document/d/1xaOEDXTVueavTIz0GhahNTJvpq8GrW2L/edit?usp=sharing&ouid=114987831998259542559&rtpof=true&sd=true
+
+Ссылка на презентацию для защиты https://docs.google.com/presentation/d/1v-DfMNKgvCUaV2DXlP5hFuMAN--Bg1kWRu2c4hzmW9k/edit?usp=sharing
